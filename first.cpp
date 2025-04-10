@@ -1,6 +1,13 @@
-#include <iosteam.h>
-#include <math.h>
+#include <iostream>
 
-void main()
-{
-cout<< "hello world";
+using namespace std;
+
+int main(){
+
+    //this is a comment 
+
+    cout<<"I like pizza!"<< endl;
+    cout<<"its really good"<< endl;
+
+    return 0;
+}
