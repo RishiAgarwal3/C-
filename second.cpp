@@ -1,4 +1,4 @@
-// variables
+// variable
 
 #include <iostream>
 
