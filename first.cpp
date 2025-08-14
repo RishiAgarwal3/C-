@@ -1,3 +1,5 @@
+//comments and printing
+
 #include <iostream>
 
 using namespace std;
